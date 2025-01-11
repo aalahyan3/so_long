@@ -1,0 +1,8 @@
+Dynamic texture size:
+	2 classes
+		small = 25 * 25
+		large = 50 * 50
+
+
+Limits as i tested
+	max = 100 * 50:
